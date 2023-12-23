@@ -1,0 +1,10 @@
+tensorflow==1.15.0
+numpy==1.16.1
+matplotlib==3.0.2
+scipy==1.2.1
+resampy==0.2.1
+
+# for compat
+protobuf<=3.19.0
+tf_slim
+scikit-image
